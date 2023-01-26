@@ -1,7 +1,6 @@
-# Extensions VS Code et Google 
+# VS Code and browsers extensions
 
-Des merveilleuses extensions pour vous aider
-
+Wonderful extensions to help you
 
 # VS Code
 
@@ -91,12 +90,12 @@ Des merveilleuses extensions pour vous aider
 * Serveur de publication : Anthony Shaw
 * [Lien de la Place de marché pour VS](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
-### Des jolis thèmes avec de belles couleurs
+### Pretty themes with beautiful colors
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [🦇 Arkham Theme](https://marketplace.visualstudio.com/items?itemName=lucasmsa.arkham-theme)
-* [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (le mien) 
+* [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (mine) 
 
-# Extensions navigateurs
+# Browser extensions
 
 ### Clear Cache 
 * Clear your cache and browsing data with a single click of a button.
@@ -115,7 +114,7 @@ Des merveilleuses extensions pour vous aider
 * [Lien Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
 
 ### Violentmonkey
-* Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs
+* A user script manager that supports many browsers
 * [Lien Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/violentmonkey/)
 
 ### Wappalyzer - Technology profiler
@@ -123,7 +122,7 @@ Des merveilleuses extensions pour vous aider
 * [Lien Chrome](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
 ### uBlock Origin
-* Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive.
+* An efficient blocker. Easy on CPU and memory.
 * [Lien Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 
 ### ColorPick Eyedropper
