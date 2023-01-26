@@ -71,6 +71,12 @@ Des merveilleuses extensions pour vous aider
 * Serveur de publication : Wayou Liu
 * [Lien de la Place de marché pour VS](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
+## Live Server
+* ID : ritwickdey.LiveServer
+* Description : Launch a development local Server with live reload feature for static & dynamic pages
+* Serveur de publication : Ritwick Dey
+* [Lien de la Place de marché pour VS](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 ## Optionnelles
 
 ### French Language Pack for Visual Studio Code
