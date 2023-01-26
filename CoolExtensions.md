@@ -118,3 +118,11 @@ Des merveilleuses extensions pour vous aider
 * Identify web technologies
 * [Lien Chrome](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
+### uBlock Origin
+* Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
+
+### ColorPick Eyedropper
+* A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/colorpick-eyedropper/)
+
