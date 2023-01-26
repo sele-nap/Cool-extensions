@@ -126,3 +126,20 @@ Des merveilleuses extensions pour vous aider
 * A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
 * [Lien Chrome](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/colorpick-eyedropper/)
 
+### Violentmonkey
+* Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs
+* [Lien Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/violentmonkey/)
+
+### WhatFont
+* The easiest way to identify fonts on web pages.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=fr) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/zjm-whatfont/)
+
+### daily.dev
+* Get a feed of the hottest developer news personalized to you.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/daily/)
+
+## Optionnelles
+
+### Refined GitHub
+* Simplifies the GitHub interface and adds useful features
+* [Lien Chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
