@@ -1,6 +1,6 @@
 # VS Code and browsers extensions
 
-Wonderful extensions to help you
+Wonderful extensions to help you !
 
 # VS Code
 
