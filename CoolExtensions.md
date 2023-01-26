@@ -99,54 +99,54 @@ Wonderful extensions to help you
 
 ### Clear Cache 
 * Clear your cache and browsing data with a single click of a button.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+* [Chrome link](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 
 ### Moesif Origin & CORS Changer
 * This plugin allows you to send cross-domain requests. You can also override Request Origin and CORS headers.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/moesif-origin-cors-changer1/)
+* [Chrome link](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/moesif-origin-cors-changer1/)
 
 ### React Developer Tools
 * Adds React debugging tools to the Chrome Developer Tools.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+* [Chrome link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 ### Vue.js devtools
 * Browser DevTools extension for debugging Vue.js applications.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+* [Chrome link](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
 
 ### Violentmonkey
 * A user script manager that supports many browsers
-* [Lien Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/violentmonkey/)
+* [Chrome link](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/violentmonkey/)
 
 ### Wappalyzer - Technology profiler
 * Identify web technologies
-* [Lien Chrome](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+* [Chrome link](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
 ### uBlock Origin
 * An efficient blocker. Easy on CPU and memory.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
+* [Chrome link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 
 ### ColorPick Eyedropper
 * A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/colorpick-eyedropper/)
+* [Chrome link](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/colorpick-eyedropper/)
 
 ### CSSViewer
 * A simple CSS property viewer.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/cssviewer-quantum/)
+* [Chrome link](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/cssviewer-quantum/)
 
 ### WhatFont
 * The easiest way to identify fonts on web pages.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=fr) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/zjm-whatfont/)
+* [Chrome link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/zjm-whatfont/)
 
 ### daily.dev
 * Get a feed of the hottest developer news personalized to you.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/daily/)
+* [Chrome link](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/daily/)
 
 ## Optional
 
 ### Refined GitHub
 * Simplifies the GitHub interface and adds useful features
-* [Lien Chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
+* [Chrome link](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
 
 ### Tabby Cat 🐱
 * A new friend in every tab.
-* [Lien Chrome](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/tabby-cat-friend/)
+* [Chrome link](https://chrome.google.com/webstore/detail/tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/tabby-cat-friend/)
