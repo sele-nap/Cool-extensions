@@ -76,7 +76,7 @@ Wonderful extensions to help you
 * Serveur de publication : Ritwick Dey
 * [Lien de la Place de marché pour VS](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-## Optionnelles
+## Optional
 
 ### French Language Pack for Visual Studio Code
 * ID : MS-CEINTL.vscode-language-pack-fr
@@ -141,7 +141,7 @@ Wonderful extensions to help you
 * Get a feed of the hottest developer news personalized to you.
 * [Lien Chrome](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/daily/)
 
-## Optionnelles
+## Optional
 
 ### Refined GitHub
 * Simplifies the GitHub interface and adds useful features
