@@ -95,3 +95,26 @@ Des merveilleuses extensions pour vous aider
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [🦇 Arkham Theme](https://marketplace.visualstudio.com/items?itemName=lucasmsa.arkham-theme)
 * [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (le mien) 
+
+# Extensions navigateurs
+
+### Clear Cache 
+* Clear your cache and browsing data with a single click of a button.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+
+### Moesif Origin & CORS Changer
+* This plugin allows you to send cross-domain requests. You can also override Request Origin and CORS headers.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) / [Lien Mozilla](https://addons.mozilla.org/fr/firefox/addon/moesif-origin-cors-changer1/)
+
+### React Developer Tools
+* Adds React debugging tools to the Chrome Developer Tools.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+
+### Vue.js devtools
+* Browser DevTools extension for debugging Vue.js applications.
+* [Lien Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+
+### Wappalyzer - Technology profiler
+* Identify web technologies
+* [Lien Chrome](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) / [Lien Mozilla](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+
