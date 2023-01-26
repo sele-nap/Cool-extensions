@@ -65,6 +65,12 @@ Des merveilleuses extensions pour vous aider
 * Serveur de publication : CesiumJS.org
 * [Lien de la Place de marché pour VS](https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode)
 
+## TODO Highlight
+* ID : wayou.vscode-todo-highlight
+* Description : highlight TODOs, FIXMEs, and any keywords, annotations...
+* Serveur de publication : Wayou Liu
+* [Lien de la Place de marché pour VS](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+
 ## Optionnelles
 
 ### French Language Pack for Visual Studio Code
