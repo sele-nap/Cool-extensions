@@ -84,6 +84,12 @@ Wonderful extensions to help you !
 * Publishing Server : Microsoft
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
 
+### GitHub Copilot
+* ID : GitHub.copilot
+* Description : Your AI pair programmer
+* Publishing Server : GitHub
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
 ### vscode-pets 🐈
 * ID : tonybaloney.vscode-pets
 * Description : Pets for your VS Code
