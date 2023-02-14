@@ -10,6 +10,12 @@ Wonderful extensions to help you !
 * Publishing Server : Yurii Semeniuk
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
 
+### Error Lens
+* ID : usernamehw.errorlens
+* Description : Improve highlighting of errors, warnings and other language diagnostics.
+* Serveur de publication : Alexander
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
 ### JavaScript (ES6) code snippets
 * ID : xabikos.JavaScriptSnippets
 * Description : Code snippets for JavaScript in ES6 syntax
