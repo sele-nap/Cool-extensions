@@ -46,6 +46,12 @@ Wonderful extensions to help you !
 * Publishing Server : mhutchie
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
+### WakaTime
+* Id: WakaTime.vscode-wakatime
+* Description: Metrics, insights, and time tracking automatically generated from your programming activity.
+* Publisher: WakaTime
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
 ### MongoDB for VS Code
 * ID : mongodb.mongodb-vscode
 * Description : Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
