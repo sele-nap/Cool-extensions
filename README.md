@@ -47,9 +47,9 @@ Wonderful extensions to help you !
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ### WakaTime
-* Id: WakaTime.vscode-wakatime
-* Description: Metrics, insights, and time tracking automatically generated from your programming activity.
-* Publisher: WakaTime
+* ID : WakaTime.vscode-wakatime
+* Description : Metrics, insights, and time tracking automatically generated from your programming activity.
+* Publisher : WakaTime
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
 ### MongoDB for VS Code
