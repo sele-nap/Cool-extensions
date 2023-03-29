@@ -4,6 +4,12 @@ Wonderful extensions to help you !
 
 # VS Code
 
+### GitHub Pull Requests and Issues
+* ID : GitHub.vscode-pull-request-github
+* Description : Pull Request and Issue Provider for GitHub
+* Publisher : GitHub
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
 ### Emmet Live 
 * ID : ysemeniuk.emmet-live
 * Description : Expand your Emmet abbreviations dynamically
