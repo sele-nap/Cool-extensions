@@ -16,11 +16,11 @@ Wonderful extensions to help you !
 * Serveur de publication : Alexander
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
-### JavaScript (ES6) code snippets
-* ID : xabikos.JavaScriptSnippets
-* Description : Code snippets for JavaScript in ES6 syntax
-* Publishing Server : charalampos karypidis
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+### Live Share
+* ID : ms-vsliveshare.vsliveshare
+* Description : Real-time collaborative development from the comfort of your favorite tools.
+* Publishing Server : Microsoft
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ### Vue Language Features (Volar)
 * ID : Vue.volar
@@ -64,12 +64,6 @@ Wonderful extensions to help you !
 * Publishing Server : Microsoft
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-### Live Share
-* ID : ms-vsliveshare.vsliveshare
-* Description : Real-time collaborative development from the comfort of your favorite tools.
-* Publishing Server : Microsoft
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-
 ### glTF Tools
 * ID : cesium.gltf-vscode
 * Description : Tools for glTF and GLB 3D models
@@ -93,6 +87,12 @@ Wonderful extensions to help you !
 * Description : Expand your Emmet abbreviations dynamically
 * Publishing Server : Yurii Semeniuk
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
+
+### JavaScript (ES6) code snippets
+* ID : xabikos.JavaScriptSnippets
+* Description : Code snippets for JavaScript in ES6 syntax
+* Publishing Server : charalampos karypidis
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 
 ## Optional
