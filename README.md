@@ -10,12 +10,6 @@ Wonderful extensions to help you !
 * Publisher : GitHub
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
-### Emmet Live 
-* ID : ysemeniuk.emmet-live
-* Description : Expand your Emmet abbreviations dynamically
-* Publishing Server : Yurii Semeniuk
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
-
 ### Error Lens
 * ID : usernamehw.errorlens
 * Description : Improve highlighting of errors, warnings and other language diagnostics.
@@ -93,6 +87,13 @@ Wonderful extensions to help you !
 * Description : Launch a development local Server with live reload feature for static & dynamic pages
 * Publishing Server : Ritwick Dey
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+### Emmet Live 
+* ID : ysemeniuk.emmet-live
+* Description : Expand your Emmet abbreviations dynamically
+* Publishing Server : Yurii Semeniuk
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
+
 
 ## Optional
 
