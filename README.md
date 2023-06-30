@@ -93,12 +93,12 @@ Wonderful extensions to help you !
 * Description : Code snippets for JavaScript in ES6 syntax
 * Publishing Server : charalampos karypidis
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-* 
+
 ### CodiumAI - powered by TestGPT-1 and GPT-3.5&4
-ID : Codium.codium
-Description : CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship
-Publishing Server : CodiumAI - Generate Meaningful Tests
-[Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
+* ID : Codium.codium
+* Description : CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship
+* Publishing Server : CodiumAI - Generate Meaningful Tests
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
 
 
 ## Optional
