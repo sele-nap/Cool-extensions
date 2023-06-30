@@ -124,7 +124,13 @@ Wonderful extensions to help you !
 ### Pretty themes with beautiful colors
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [🦇 Arkham Theme](https://marketplace.visualstudio.com/items?itemName=lucasmsa.arkham-theme)
-* [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (mine) 
+* [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (mine)
+
+### Peacock
+* ID : johnpapa.vscode-peacock
+* Description : Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+* Publishing Server : John Papa
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 # Browser extensions
 
