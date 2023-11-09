@@ -4,6 +4,8 @@ Wonderful extensions to help you !
 
 # VS Code
 
+## Tier 1
+
 ### GitHub Pull Requests and Issues
 * ID : GitHub.vscode-pull-request-github
 * Description : Pull Request and Issue Provider for GitHub
@@ -46,12 +48,6 @@ Wonderful extensions to help you !
 * Publishing Server : mhutchie
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
-### WakaTime
-* ID : WakaTime.vscode-wakatime
-* Description : Metrics, insights, and time tracking automatically generated from your programming activity.
-* Publisher : WakaTime
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
-
 ### MongoDB for VS Code
 * ID : mongodb.mongodb-vscode
 * Description : Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
@@ -63,18 +59,6 @@ Wonderful extensions to help you !
 * Description : Makes it easy to create, manage, and debug containerized applications.
 * Publishing Server : Microsoft
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-
-### glTF Tools
-* ID : cesium.gltf-vscode
-* Description : Tools for glTF and GLB 3D models
-* Publishing Server : CesiumJS.org
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode)
-
-### TODO Highlight
-* ID : wayou.vscode-todo-highlight
-* Description : highlight TODOs, FIXMEs, and any keywords, annotations...
-* Publishing Server : Wayou Liu
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 ### Live Server
 * ID : ritwickdey.LiveServer
@@ -88,20 +72,7 @@ Wonderful extensions to help you !
 * Publishing Server : Yurii Semeniuk
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
 
-### JavaScript (ES6) code snippets
-* ID : xabikos.JavaScriptSnippets
-* Description : Code snippets for JavaScript in ES6 syntax
-* Publishing Server : charalampos karypidis
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-
-### CodiumAI - powered by TestGPT-1 and GPT-3.5&4
-* ID : Codium.codium
-* Description : CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship
-* Publishing Server : CodiumAI - Generate Meaningful Tests
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
-
-
-## Optional
+## Tier 2
 
 ### French Language Pack for Visual Studio Code
 * ID : MS-CEINTL.vscode-language-pack-fr
@@ -109,22 +80,22 @@ Wonderful extensions to help you !
 * Publishing Server : Microsoft
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
 
-### GitHub Copilot
-* ID : GitHub.copilot
-* Description : Your AI pair programmer
-* Publishing Server : GitHub
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+### glTF Tools
+* ID : cesium.gltf-vscode
+* Description : Tools for glTF and GLB 3D models
+* Publishing Server : CesiumJS.org
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode)
 
-### vscode-pets 🐈
-* ID : tonybaloney.vscode-pets
-* Description : Pets for your VS Code
-* Publishing Server : Anthony Shaw
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+### TODO Highlight
+* ID : wayou.vscode-todo-highlight
+* Description : highlight TODOs, FIXMEs, and any keywords, annotations...
+* Publishing Server : Wayou Liu
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 ### Pretty themes with beautiful colors
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [🦇 Arkham Theme](https://marketplace.visualstudio.com/items?itemName=lucasmsa.arkham-theme)
-* [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (mine)
+* [🧛 Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 ### Peacock
 * ID : johnpapa.vscode-peacock
@@ -132,11 +103,25 @@ Wonderful extensions to help you !
 * Publishing Server : John Papa
 * [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
+### vscode-pets 🐈
+* ID : tonybaloney.vscode-pets
+* Description : Pets for your VS Code
+* Publishing Server : Anthony Shaw
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+
+### WakaTime
+* ID : WakaTime.vscode-wakatime
+* Description : Metrics, insights, and time tracking automatically generated from your programming activity.
+* Publisher : WakaTime
+* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
 # Browser extensions
 
-### Clear Cache 
-* Clear your cache and browsing data with a single click of a button.
-* [Chrome link](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+## Tier 1
+
+### uBlock Origin
+* An efficient blocker. Easy on CPU and memory.
+* [Chrome link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 
 ### Moesif Origin & CORS Changer
 * This plugin allows you to send cross-domain requests. You can also override Request Origin and CORS headers.
@@ -154,13 +139,16 @@ Wonderful extensions to help you !
 * A user script manager that supports many browsers
 * [Chrome link](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/violentmonkey/)
 
+## Tier 2
+
+### Dark Reader
+
+* Enable dark mode (night mode) on all websites.
+* [Chrome link](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/darkreader/)
+
 ### Wappalyzer - Technology profiler
 * Identify web technologies
 * [Chrome link](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
-
-### uBlock Origin
-* An efficient blocker. Easy on CPU and memory.
-* [Chrome link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 
 ### ColorPick Eyedropper
 * A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
@@ -173,16 +161,6 @@ Wonderful extensions to help you !
 ### WhatFont
 * The easiest way to identify fonts on web pages.
 * [Chrome link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/zjm-whatfont/)
-
-### daily.dev
-* Get a feed of the hottest developer news personalized to you.
-* [Chrome link](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/daily/)
-
-## Optional
-
-### Refined GitHub
-* Simplifies the GitHub interface and adds useful features
-* [Chrome link](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) / [Mozilla link](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
 
 ### Tabby Cat 🐱
 * A new friend in every tab.
