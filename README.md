@@ -74,12 +74,6 @@ Wonderful extensions to help you !
 
 ## Tier 2
 
-### French Language Pack for Visual Studio Code
-* ID : MS-CEINTL.vscode-language-pack-fr
-* Description : Language pack extension for French
-* Publishing Server : Microsoft
-* [Marketplace link for VS](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
-
 ### glTF Tools
 * ID : cesium.gltf-vscode
 * Description : Tools for glTF and GLB 3D models
