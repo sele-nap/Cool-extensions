@@ -117,6 +117,10 @@ Wonderful extensions to help you !
 * An efficient blocker. Easy on CPU and memory.
 * [Chrome link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 
+### Consent-O-Matic 
+* Automatic handling of GDPR consent forms
+* [Chrome link](https://chromewebstore.google.com/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd?pli=1) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/consent-o-matic/)
+
 ### Moesif Origin & CORS Changer
 * This plugin allows you to send cross-domain requests. You can also override Request Origin and CORS headers.
 * [Chrome link](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) / [Mozilla link](https://addons.mozilla.org/fr/firefox/addon/moesif-origin-cors-changer1/)
